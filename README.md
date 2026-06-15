@@ -90,21 +90,20 @@ O protótipo permite gerar artefatos de análise funcional a partir da descriç�
 
 ---
 
-## 📷 Evidências
-
-<img width="1536" height="1024" alt="interacao4" src="https://github.com/user-attachments/assets/77c8da5e-f1a3-4b8e-8e91-e5e9407152d0" />
-
 ### Interações com a IA
 
-<img width="1536" height="1024" alt="interacao2" src="https://github.com/user-attachments/assets/61642e03-24e1-45ff-b100-5d31a31f416e" />
-)
+<img width="1536" height="1024" alt="interacao1" src="https://github.com/user-attachments/assets/ae5b7d2d-9aa8-4f0e-aada-af2dc23118e1" />
+
+<img width="1536" height="1024" alt="interacao2" src="https://github.com/user-attachments/assets/a9012ba9-7bef-4293-8007-ba755e77659c" />
 
 ### Protótipo
 
-<img width="1536" height="1024" alt="tela-inicial 3" src="https://github.com/user-attachments/assets/5c31f983-9578-454e-9f9c-307b6c9a458c" />
+<img width="1536" height="1024" alt="tela inicial" src="https://github.com/user-attachments/assets/4afdeb1b-9c73-4f68-b909-c351d10756f8" />
 
-<img width="1536" height="1024" alt="resultado 1" src="https://github.com/user-attachments/assets/90949de0-4c58-4307-876e-c901da7076de" />
 
+## 📷 Evidências
+
+<img width="1536" height="1024" alt="resultado" src="https://github.com/user-attachments/assets/54d50a4a-1095-41ef-a844-8f5cc437962f" />
 
 ---
 
