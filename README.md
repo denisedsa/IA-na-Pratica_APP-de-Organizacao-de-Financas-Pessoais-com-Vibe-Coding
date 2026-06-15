@@ -1,0 +1,1 @@
+# IA-na-Pratica_APP-de-Organizacao-de-Financas-Pessoais-com-Vibe-Coding
